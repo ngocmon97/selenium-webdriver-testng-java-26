@@ -13,8 +13,7 @@ import org.testng.annotations.Test;
 public class Topic_01_Setup_Enviroment {
 	WebDriver driver;
 	String projectPath = System.getProperty("user.dir");
-
-	public void click
+  // 
 	@BeforeClass
 	public void beforeClass() {
 		System.setProperty("webdriver.gecko.driver", projectPath + "\\browserDrivers\\geckodriver.exe");
