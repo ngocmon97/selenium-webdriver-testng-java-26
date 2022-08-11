@@ -14,4 +14,16 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>browserDrivers/chromedriver.exe</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/01-%20tools/01-%20tools/chromedriver_win32/chromedriver.exe</locationURI>
+		</link>
+		<link>
+			<name>browserDrivers/msedgedriver.exe</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/01-%20tools/01-%20tools/msedgedriver.exe</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
